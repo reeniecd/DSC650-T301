@@ -1,0 +1,5 @@
+format,uncompressed,gzip,snappy
+pb,22216KB,,3702KB
+avro,19319KB,,
+parquet,1710KB,,
+JSON,,3250KB,
